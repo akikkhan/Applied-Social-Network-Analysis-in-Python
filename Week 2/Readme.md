@@ -21,6 +21,21 @@ Import and analyze an internal email communication network between employees of 
 
 **Packages:**
   * NetworkX
+    * Graph
+    * read_edgelist
+    * is_connected
+    * is_strongly_connected
+    * weakly_connected_components
+    * strongly_connected_components
+    * strongly_connected_component_subgraphs
+    * average_shortest_path_length
+    * diameter
+    * periphery
+    * center
+    * shortest_path_length
+    * minimum_node_cut
+    * transitivity
+    * average_clustering
   * collections
     * Counter
 
