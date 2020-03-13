@@ -10,6 +10,9 @@ Eight employees at a small company were asked to choose 3 movies that they would
   * Pandas
   * Numpy
   * NetworkX
+    * spring_layout
+    * read_edgelist
   * networkx.algorithms
     * bipartite
+      * weighted_projected_graph
   * Matplotlib
