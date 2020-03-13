@@ -12,3 +12,4 @@ Eight employees at a small company were asked to choose 3 movies that they would
   * NetworkX
   * networkx.algorithms
     * bipartite
+  * Matplotlib
